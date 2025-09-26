@@ -149,7 +149,7 @@ function fibonacci100() {
     return fib;
 }
 
-// 20. Imprimir múltiplos de 3 hasta 50
+// 20. imprime múltiplos de 3 hasta 50
 function multiplos3() {
     let resultado = [];
     let i = 3;
@@ -160,10 +160,11 @@ function multiplos3() {
     return resultado;
 }
 
-// =====================================
-// 👇 SOLO CAMBIA ESTA PARTE SEGÚN EL EJERCICIO QUE QUIERAS PROBAR
-// =====================================
-//console.log("1:", sumarArray());
+
+
+// LE QUITA EL COMENTARIO AL EJERCICIO QUE DESEE EJECUTAR , Y EN LA TERMINAL COLOQUE "29ejercicios.js" . 
+
+
 //console.log("2:", mayorMenor());
 //console.log("3:", contarPares());
 //console.log("4:", ordenarArray());
@@ -173,7 +174,7 @@ function multiplos3() {
 //console.log("8:", sumarPositivos());
 //console.log("9:", primerMultiplo5());
 //console.log("10:", tablaMultiplicar());
-console.log("11:", fibonacci10());
+//console.log("11:", fibonacci10());
 //console.log("12:", adivinarNumero());
 //console.log("13:", tablaMultiplicarPosNeg());
 //console.log("14:", validarEntrada());
